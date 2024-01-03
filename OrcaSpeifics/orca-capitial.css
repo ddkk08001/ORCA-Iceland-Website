@@ -1,0 +1,13 @@
+.header {
+    background-image: url("../OrcaMap/orca-hovos.png");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .title {
+    text-align: center;
+}
